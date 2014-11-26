@@ -3,7 +3,7 @@ Hello World Sample
 
 This is an obvious place to get started. This sample project contains 2 basic sample applications:
 
-* Hello World.
+* Hello World 1
 * Poller Application
 
 ## Hello World
