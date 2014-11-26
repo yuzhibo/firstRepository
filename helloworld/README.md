@@ -3,11 +3,7 @@ Hello World Sample
 
 This is an obvious place to get started. This sample project contains 2 basic sample applications:
 
-<<<<<<< HEAD
-* Hello World 123
-=======
-* Hello World 12zz
->>>>>>> ad60b286bfdc5c3746b1eb66b06725fc9fe53a0c
+* Hello World
 * Poller Application
 
 ## Hello World
